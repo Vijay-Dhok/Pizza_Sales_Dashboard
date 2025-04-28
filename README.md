@@ -1,5 +1,5 @@
 # Pizza_Sales_Dashboard
-(![image alt](https://github.com/Vijay-Dhok/Mobile_Sales_Dashboard_PBI/blob/0aad21e55cc73e863163c15dfa4eb23144f0a3b7/Dashboard_mobiles_sales.png))
+(![image alt](https://github.com/Vijay-Dhok/Pizza_Sales_Dashboard/blob/main/Screenshot%202025-04-28%20224424.png?raw=true))
 Total Revenue by Pizza Size: (Donut Chart)
     Large pizzas contribute the most to revenue (375.32K, 45.89%).
     Medium pizzas are next (249.38K, 30.49%).
